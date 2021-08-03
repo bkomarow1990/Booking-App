@@ -1,0 +1,15 @@
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\DAL.dll
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\DAL.pdb
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.dll
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.pdb
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\DAL\obj\Debug\DAL.Migrations.InitMigratins.resources
