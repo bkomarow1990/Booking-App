@@ -26,7 +26,7 @@ namespace RentServiceApp.Pages
         public ShowDataGrid()
         {
             InitializeComponent();
-            datagrid.ItemsSource = userService.GetAll().ToList();
+            datagrid.ItemsSource = rentService.GetAll().ToList();
         }
     }
 }

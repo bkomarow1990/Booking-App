@@ -28,3 +28,5 @@ C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\bin\Debug\Enti
 C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\obj\Debug\Pages\ShowDataGrid.g.cs
 C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\obj\Debug\Pages\ShowDataGrid.baml
 C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\bin\Debug\BLL.dll.config
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\obj\Debug\Pages\RentDepartmentPage.g.cs
+C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\obj\Debug\Pages\RentDepartmentPage.baml

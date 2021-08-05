@@ -26,15 +26,28 @@ namespace RentServiceApp
         public MainWindow()
         {
             InitializeComponent();
-            ShowPage();
         }
 
         void ShowPage()
         {
-            mainframe.Content = new ShowDataGrid();
+           // mainframe.Content = new ShowDataGrid();
         }
 
-        
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            RentDepartmentPage rentDepartment = new RentDepartmentPage();
+            this.Content = rentDepartment;
+        }
 
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            ShowDataGrid showData = new ShowDataGrid();
+            this.Content = showData;
+        }
     }
 }

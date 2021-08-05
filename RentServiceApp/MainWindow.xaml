@@ -6,5 +6,9 @@
         xmlns:local="clr-namespace:RentServiceApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Frame x:Name="mainframe" NavigationUIVisibility="Hidden" />
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Content="Add new Department" FontSize="30" Click="Button_Click" />
+        <Button Content="Show datagrid" FontSize="30" Click="Button_Click_2" Margin="0 40 0 0" />
+        <Button Content="Exit" FontSize="30" Click="Button_Click_1" Margin="0 40 0 0" />
+    </StackPanel>
 </Window>

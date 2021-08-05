@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\vadim_oyanwuw\source\repos\RentServiceApp\RentServiceApp\App.xaml
-2-563420599
+3-922188499
 
-6-1569480733
+7686222048
 18-238171977
-MainWindow.xaml;Pages\ShowDataGrid.xaml;
+MainWindow.xaml;Pages\RentDepartmentPage.xaml;Pages\ShowDataGrid.xaml;
 
 False
 

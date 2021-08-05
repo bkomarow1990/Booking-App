@@ -6,9 +6,18 @@
       xmlns:local="clr-namespace:RentServiceApp.Pages"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
-      Title="RentDepartmentPage">
+      Title="RentDepartmentPage" Background="White">
 
     <Grid>
-        
+        <StackPanel Margin="30">
+            <TextBlock Text="Enter type house:" FontSize="30"/>
+            <TextBox x:Name="txtHouseName" FontSize="30"/>
+            <DatePicker Name="datetimefrom" FontSize="30"/>
+            <DatePicker Name="datetimeto" FontSize="30"/>
+            <ComboBox Name="cbUsers" FontSize="30"/>
+            <ComboBox Name="cbDepartmentId" FontSize="30"/>
+            <CheckBox Content="IsAviable" x:Name="checkBoxIsAviable" FontSize="20"/>
+            <Button Content="Add new department" FontSize="30" Margin="0 51 0 0" Click="Button_Click" />
+        </StackPanel>
     </Grid>
 </Page>
